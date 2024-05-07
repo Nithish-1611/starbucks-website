@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../d"
+		},
+		{
+			"path": "../node sample"
+		},
+		{
+			"path": "../bootstrap"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "starbucks"
+	}
+}
